@@ -1,0 +1,9 @@
+# Ignore everything in the RPG Maker project
+*
+
+# But keep the js folder and everything inside it
+!js/
+!js/**
+
+# Always track this .gitignore file
+!.gitignore
